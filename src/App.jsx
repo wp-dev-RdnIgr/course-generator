@@ -60,7 +60,7 @@ const IconChevronDown = () => (
 );
 
 // Конфігурація
-const WEBHOOK_URL = 'YOUR_N8N_WEBHOOK_URL';
+const WEBHOOK_URL = 'https://n8n.rnd.webpromo.tools/webhook/course-generator';
 
 export default function App() {
   const [formData, setFormData] = useState({
